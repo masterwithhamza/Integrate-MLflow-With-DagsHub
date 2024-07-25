@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1721839599588
+current_stage: Staging
+description: null
+last_updated_timestamp: 1721839599604
+name: IrisLogisticRegressionModel
+run_id: 753821c919ae46058b422ef4562eb76d
+run_link: null
+source: runs:/753821c919ae46058b422ef4562eb76d/model
+status: READY
+status_message: null
+storage_location: runs:/753821c919ae46058b422ef4562eb76d/model
+user_id: null
+version: 1
